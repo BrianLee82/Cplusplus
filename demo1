@@ -1,0 +1,14 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+
+	cout<<"Hello everyone.My name is Brian.";
+	cout<<endl;
+	cout<<"I am living in SuZhou City Now.";
+	
+	return 0;
+	
+}
